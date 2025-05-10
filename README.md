@@ -9,8 +9,8 @@
 
 
 #### 🖥️ My programing languages: $~~~~~~~~~~~~~~~~~~~~~~~$ 🪛 My tools:
-![C](https://img.icons8.com/?size=100&id=teULeYjvuR4y&format=png&color=000000) 
-![C++](https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000)
+![C](https://img.icons8.com/?size=36&id=teULeYjvuR4y&format=png&color=000000) 
+![C++](https://img.icons8.com/?size=36&id=2T6TKY6whzgV&format=png&color=000000)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 ![VSCODE](https://img.icons8.com/?size=36&id=XCNhMfBsqfX1&format=png&color=000000) 
 ![GITHUB](https://img.icons8.com/?size=36&id=52539&format=png&color=000000)
