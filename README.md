@@ -14,9 +14,10 @@
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 ![VSCODE](https://img.icons8.com/?size=36&id=XCNhMfBsqfX1&format=png&color=000000) 
 ![GITHUB](https://img.icons8.com/?size=36&id=52539&format=png&color=000000)
+![LINUX](https://img.icons8.com/?size=36&id=49498&format=png&color=000000)
+![BASH](https://img.icons8.com/?size=36&id=52515&format=png&color=000000)
 ![VM](https://img.icons8.com/?size=36&id=69505&format=png&color=000000)
 ![DOCKER](https://img.icons8.com/?size=36&id=GOHWqwnSE8Sv&format=png&color=000000)
-![LINUX](https://img.icons8.com/?size=36&id=49498&format=png&color=000000)
 
 
 > [!NOTE]
