@@ -4,7 +4,7 @@
 - 🔍 Currently seeking a **stage in Data Science or On-board Systems**
 - 💡 Passionate about exploring new programming tools and continuous learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomioz&layout=compact)   [![zomioz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomioz)](https://github.com/zomioz/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomioz&layout=compact)
 <!--
 **zomioz/zomioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
