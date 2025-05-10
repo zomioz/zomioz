@@ -13,7 +13,6 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language">
   <img src="https://img.icons8.com/?size=36&id=teULeYjvuR4y&format=png&color=000000" alt="C">
 </a>
-
 ![C++](https://img.icons8.com/?size=36&id=2T6TKY6whzgV&format=png&color=000000)
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 ![VSCODE](https://img.icons8.com/?size=36&id=XCNhMfBsqfX1&format=png&color=000000) 
