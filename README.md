@@ -5,6 +5,7 @@
 - 💡 Passionate about exploring new programming tools and continuous learning
 - 📫 How to reach me: pirulenc@student.42angouleme.fr
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomioz&layout=donut&theme=tokyonight) ![zomioz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomioz&show_icons=true&theme=tokyonight)
 
 
