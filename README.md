@@ -9,7 +9,7 @@
 
 
 #### 🖥️ My programing languages: $~~~~~~~~~~~~~~~~~~~~~~~$ 🪛 My tools:
-![C](https://img.icons8.com/?size=50&id=JRi615uFErMu&format=png&color=000000)
+![C](https://img.icons8.com/?size=20&id=JRi615uFErMu&format=png&color=000000)
 
 
 
