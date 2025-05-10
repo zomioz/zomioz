@@ -11,6 +11,9 @@
 ![C](https://img.icons8.com/color/36/c-programming.png)   ![C++](https://img.icons8.com/color/36/c-plus-plus-logo.png)                                        ![vscode](https://img.icons8.com/badges/36/visual-studio.png) ![git](https://img.icons8.com/material-rounded/36/FFFFFF/github.png)   ![VitualB](https://img.icons8.com/color/36/virtualbox.png)   ![docker](https://img.icons8.com/external-those-icons-flat-those-icons/36/external-Docker-Logo-social-media-those-icons-flat-those-icons.png)
 
 
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 <!--
 **zomioz/zomioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
