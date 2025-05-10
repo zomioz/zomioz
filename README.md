@@ -1,4 +1,8 @@
-## Hi there 👋
+## Greetings Folks 👋
+👨 Pierre RULENCE | zomioz
+🎓 Learning at 42 School | Aspiring Data Scientist & Embedded Systems Developer
+🔍 Currently seeking a stage in Data Science or On-board Systems
+💡 Passionate about exploring new programming tools and continuous learning
 
 <!--
 **zomioz/zomioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
