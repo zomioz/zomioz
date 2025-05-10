@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/?size=36&id=teULeYjvuR4y&format=png&color=000000" alt="C">
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
   <img src="https://img.icons8.com/?size=36&id=2T6TKY6whzgV&format=png&color=000000" alt="C++">
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
+</a> $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 <a href="https://code.visualstudio.com/">
   <img src="https://img.icons8.com/?size=36&id=52539&format=png&color=000000" alt="VSCODE">
 <a href="https://github.com/zomioz">
