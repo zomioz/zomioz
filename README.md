@@ -23,3 +23,6 @@
 <a href="https://www.docker.com/">
   <img src="https://img.icons8.com/?size=36&id=GOHWqwnSE8Sv&format=png&color=000000" alt="VSCODE">
 </a>
+
+
+![snake gif](https://github.com/zomioz/zomioz/blob/output/github-snake-dark.svg)
