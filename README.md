@@ -16,17 +16,22 @@
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
   <img src="https://img.icons8.com/?size=36&id=2T6TKY6whzgV&format=png&color=000000" alt="C++">
 </a>
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
 <a href="https://code.visualstudio.com/">
+  <img src="https://img.icons8.com/?size=36&id=52539&format=png&color=000000" alt="VSCODE">
+</a>
+<a href="https://github.com/zomioz">
   <img src="https://img.icons8.com/?size=36&id=XCNhMfBsqfX1&format=png&color=000000" alt="VSCODE">
 </a>
-![C++](https://img.icons8.com/?size=36&id=2T6TKY6whzgV&format=png&color=000000)
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ 
-![VSCODE](https://img.icons8.com/?size=36&id=XCNhMfBsqfX1&format=png&color=000000) 
-![GITHUB](https://img.icons8.com/?size=36&id=52539&format=png&color=000000)
-![LINUX](https://img.icons8.com/?size=36&id=49498&format=png&color=000000)
-![BASH](https://img.icons8.com/?size=36&id=52515&format=png&color=000000)
-![VM](https://img.icons8.com/?size=36&id=69505&format=png&color=000000)
-![DOCKER](https://img.icons8.com/?size=36&id=GOHWqwnSE8Sv&format=png&color=000000)
+<a href="https://www.linux.org/">
+  <img src="https://img.icons8.com/?size=36&id=49498&format=png&color=000000" alt="VSCODE">
+</a>
+<a href="https://www.virtualbox.org/">
+  <img src="https://img.icons8.com/?size=36&id=69505&format=png&color=000000" alt="VSCODE">
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://img.icons8.com/?size=36&id=GOHWqwnSE8Sv&format=png&color=000000" alt="VSCODE">
+</a>
 
 
 > [!NOTE]
