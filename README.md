@@ -10,7 +10,7 @@
 
 #### 🖥️ My programing languages: $~~~~~~~~~~~~~~~~~~~~~~~$ 🪛 My tools:
 
-<a href="(https://en.wikipedia.org/wiki/C_(programming_language)">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language">
   <img src="https://img.icons8.com/?size=36&id=teULeYjvuR4y&format=png&color=000000" alt="C">
 </a>
 
