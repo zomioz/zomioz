@@ -1,4 +1,4 @@
-## Greetings Folks 👋
+# Greetings Folks 👋
 - 👨 Pierre RULENCE | zomioz
 - 🎓 Learning at 42 School | Aspiring Data Scientist & Embedded Systems Developer
 - 🔍 Currently seeking a stage in Data Science or On-board Systems
