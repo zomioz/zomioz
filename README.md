@@ -7,6 +7,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zomioz&layout=donut&theme=tokyonight) ![zomioz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zomioz&show_icons=true&theme=tokyonight)
 
+
+#### 📑 My projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zomioz&repo=School_42)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 #### 🖥️ My programing languages:                                                              🪛 My tools:
 ![C](https://img.icons8.com/color/36/c-programming.png)   ![C++](https://img.icons8.com/color/36/c-plus-plus-logo.png)                                        ![vscode](https://img.icons8.com/badges/36/visual-studio.png) ![git](https://img.icons8.com/material-rounded/36/FFFFFF/github.png)   ![VitualB](https://img.icons8.com/color/36/virtualbox.png)   ![docker](https://img.icons8.com/external-those-icons-flat-those-icons/36/external-Docker-Logo-social-media-those-icons-flat-those-icons.png)
 
