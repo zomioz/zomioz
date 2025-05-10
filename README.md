@@ -1,5 +1,5 @@
 # Greetings Folks 👋
-> [!NOTE]
+> [!ME]
 > **Pierre RULENCE | zomioz**
 
 > [!🎓]
