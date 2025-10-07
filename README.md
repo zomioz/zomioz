@@ -1,7 +1,7 @@
 # Greetings Folks 👋
 - 👨 **Pierre RULENCE | zomioz**
-- 🎓 Learning at **42 School** | Aspiring Data Scientist & Embedded Systems Developer
-- 🔍 Currently seeking a **stage in Data Science or On-board Systems**
+- 🎓 Learning at **42 School** | Aspiring Ingineer AI
+- 🔍 Currently seeking a **stage in AI**
 - 💡 Passionate about exploring new programming tools and continuous learning
 - 📫 How to reach me: pirulenc@student.42angouleme.fr
 
